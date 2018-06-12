@@ -86,10 +86,6 @@ const (
 <table class="bordered">
   <tbody>
 	<tr>
-	  <td>Address</td>
-	  <td>{{.ClientIP}}</td>
-	</tr>
-	<tr>
 	  <td>Request</td>
 	  <td>{{.LBRequest}}</td>
 	</tr>
